@@ -14,5 +14,5 @@ excluded-patches = "'GmsCore support' 'Spoof video streams'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-patcher-args = "-Oheader=premium"
+patcher-args = "-Oheader=premium*header"
 include-stock = 'false'
