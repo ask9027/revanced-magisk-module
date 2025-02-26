@@ -9,8 +9,8 @@ cli-version = 'latest'
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'Change header' 'Remove player controls background'"
-included-patches = "'GmsCore support' 'Spoof video streams'"
+included-patches = "'Change header' 'Remove player controls background'"
+excluded-patches = "'GmsCore support' 'Spoof video streams'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
