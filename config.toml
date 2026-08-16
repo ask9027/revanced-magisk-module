@@ -20,4 +20,4 @@ included-patches = "'Remove player controls background'"
 excluded-patches = "'Spoof video streams'"
 version = "auto"
 patcher-args = "-e 'Change header' -Oheader='premium*header'"
-include-stock = 'false'
+include-stock = 'disabled'
