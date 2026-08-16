@@ -123,7 +123,7 @@ jobs:
         run: |
           cd build || { echo "build folder not found"; exit 1; }
 
-          TG_CHAT="@ask9027_bot"
+          TG_CHAT="@ask9027_github"
           NL=$'\n'
           APKS=""
           MODULES=""
