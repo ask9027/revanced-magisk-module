@@ -18,6 +18,5 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 included-patches = "'Remove player controls background'"
 excluded-patches = "'Spoof video streams'"
-version = "auto"
 patcher-args = "-e 'Change header' -Oheader='premium*header'"
 include-stock = 'disable'
